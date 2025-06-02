@@ -45,11 +45,3 @@ This project is a **Smart Classroom System Design** that allows teachers and stu
 - Git & GitHub
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/mohamedicn/Classroom-System-Design.git
-cd galassroom-system-design
