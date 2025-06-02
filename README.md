@@ -47,3 +47,7 @@ This project is a **Smart Classroom System Design** that allows teachers and stu
 - Git & GitHub
 
 ---
+![image](https://github.com/user-attachments/assets/150208d4-5c4d-42c4-9766-626d126a28e5)
+![image](https://github.com/user-attachments/assets/6061bb59-212c-4fcd-9f53-928f4590831e)
+
+
