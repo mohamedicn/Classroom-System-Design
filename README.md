@@ -8,6 +8,8 @@ This project is a **Smart Classroom System Design** that allows teachers and stu
 
 - ✅ Display subjects
 - ➕ Create new subjects
+- ➕ Manage Classes and CLassroom
+- ➕ Manage assignments, submissions, and results
 - ✏️ Edit and update subjects
 - 🗑️ Delete subjects
 - 📅 Record student attendance via mobile or hardware
